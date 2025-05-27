@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("asp_obfuscate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3271e6f1b3f3519f71300f7b7b2e1cc0861f8da2")]
 [assembly: System.Reflection.AssemblyProductAttribute("asp_obfuscate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("asp_obfuscate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
